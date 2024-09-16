@@ -1,4 +1,4 @@
-## Hi there 👋
+I am frontend developer. I like to make responsive and beautiful interfaces. 
 
 <!--
 **xrustiks/xrustiks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
