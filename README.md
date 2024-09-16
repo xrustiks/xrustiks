@@ -31,4 +31,4 @@ I am frontend engineer from Russia. I am passionate about creating beautiful and
 [Cypress](https://www.cypress.io/)
 
 #### Contacts:
-[Email](shaliruna4@gmai.com)
+Email: shaliruna4@gmai.com
