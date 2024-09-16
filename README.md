@@ -1,7 +1,6 @@
-#### My name is Rustam
+My name is Rustam
 
-#### I am frontend engineer from Russia. I am passionate about creating beautiful and functional interfaces.
-
+I am frontend engineer from Russia. I am passionate about creating beautiful and functional interfaces.
 
 #### Сore skills:
 [HTML](https://www.w3schools.com/html/) |
@@ -30,3 +29,6 @@
 #### Plan to learn
 [Redux](https://redux.js.org/) |
 [Cypress](https://www.cypress.io/)
+
+#### Contacts:
+[Email](shaliruna4@gmai.com)
