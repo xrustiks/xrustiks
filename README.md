@@ -1,18 +1,10 @@
-### My name is Rustam
-#### I am frontend engineer from Russia.
-
-I am passionate about creating beautiful and functional interfaces.
-
-Skills: REACT / JS / HTML / CSS
-
-
-<h1 align="center">My name is Rustam</h1>
+<p align="center">My name is Rustam</p>
 
 <p align="center">
 I am frontend engineer from Russia. I am passionate about creating beautiful and functional interfaces.
 </p>
 
-<p>
+<p align="center">
   My skillset:
 
   <a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="42"></a>
