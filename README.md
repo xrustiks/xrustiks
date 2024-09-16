@@ -1,4 +1,4 @@
-My name is Rustam
+My name is Rustam.
 
 I am frontend engineer from Russia. I am passionate about creating beautiful and functional interfaces.
 
