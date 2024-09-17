@@ -11,7 +11,7 @@ I am frontend engineer from Russia. I am passionate about creating beautiful and
 [Git](https://git-scm.com/) |
 [Github](https://github.com/)
 
-#### Familiar with
+#### Familiar with:
 [Node JS](https://nodejs.org/) |
 [Express JS](https://expressjs.com/) |
 [Java](https://www.oracle.com/java/) |
@@ -26,7 +26,7 @@ I am frontend engineer from Russia. I am passionate about creating beautiful and
 [TypeScript](https://www.typescriptlang.org/) |
 [HTTP Protocol](https://httpwg.org/)
 
-#### Plan to learn
+#### Plan to learn:
 [Redux](https://redux.js.org/) |
 [Cypress](https://www.cypress.io/)
 
