@@ -28,7 +28,8 @@ I am frontend engineer from Russia. I am passionate about creating beautiful and
 
 #### Plan to learn:
 [Redux](https://redux.js.org/) |
-[Cypress](https://www.cypress.io/)
+[Cypress](https://www.cypress.io/) |
+[Vue](https://vuejs.org/)
 
 #### Contacts:
 Email: shaliruna4@gmai.com
