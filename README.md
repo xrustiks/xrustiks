@@ -22,9 +22,9 @@ I am frontend engineer from Russia. I am passionate about creating beautiful and
 [Netlify](https://www.netlify.com/) |
 [Heroku](https://www.heroku.com/) |
 [Vite](https://vitejs.dev/) |
-[Photoshop](https://www.adobe.com/products/photoshop.html/) |
 [TypeScript](https://www.typescriptlang.org/) |
-[HTTP Protocol](https://httpwg.org/)
+[HTTP Protocol](https://httpwg.org/) |
+[Photoshop](https://www.adobe.com/products/photoshop.html/)
 
 #### Plan to learn:
 [Redux](https://redux.js.org/) |
