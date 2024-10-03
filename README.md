@@ -9,11 +9,11 @@ I am frontend engineer from Russia. I am passionate about creating beautiful and
 [React](https://react.dev/) |
 [MySQL](https://www.mysql.com/) |
 [Git](https://git-scm.com/) |
-[Github](https://github.com/)
+[Github](https://github.com/) |
+[Node JS](https://nodejs.org/) |
+[Express JS](https://expressjs.com/)
 
 #### Familiar with:
-[Node JS](https://nodejs.org/) |
-[Express JS](https://expressjs.com/) |
 [Java](https://www.oracle.com/java/) |
 [PHP](https://www.php.net/) |
 [MongoDB](https://www.mongodb.com/) |
