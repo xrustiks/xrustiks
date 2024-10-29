@@ -1,6 +1,6 @@
 My name is Rustam.
 
-I am frontend engineer from Russia. I am passionate about creating beautiful and functional interfaces.
+I am fullstack engineer from Russia. I am passionate about creating beautiful and functional applications.
 
 #### Сore skills:
 [HTML](https://www.w3schools.com/html/) |
