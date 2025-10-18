@@ -11,7 +11,8 @@ I am fullstack engineer from Russia. I am passionate about creating beautiful an
 [Git](https://git-scm.com/) |
 [Github](https://github.com/) |
 [Node JS](https://nodejs.org/) |
-[Express JS](https://expressjs.com/)
+[Express JS](https://expressjs.com/) |
+[HTTP Protocol](https://httpwg.org/)
 
 #### Familiar with:
 [Java](https://www.oracle.com/java/) |
@@ -23,8 +24,7 @@ I am fullstack engineer from Russia. I am passionate about creating beautiful an
 [Heroku](https://www.heroku.com/) |
 [Vite](https://vitejs.dev/) |
 [TypeScript](https://www.typescriptlang.org/) |
-[HTTP Protocol](https://httpwg.org/) |
-[Photoshop](https://www.adobe.com/products/photoshop.html/)
+
 
 #### Plan to learn:
 [Redux](https://redux.js.org/) |
