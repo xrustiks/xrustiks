@@ -13,23 +13,13 @@ I am fullstack engineer from Russia. I am passionate about creating beautiful an
 [Node JS](https://nodejs.org/) |
 [Express JS](https://expressjs.com/) |
 [HTTP Protocol](https://httpwg.org/)
-
-#### Familiar with:
 [Java](https://www.oracle.com/java/) |
 [PHP](https://www.php.net/) |
 [MongoDB](https://www.mongodb.com/) |
 [Bootstrap](https://getbootstrap.com/) |
 [React Bootstrap](https://react-bootstrap.github.io/) |
-[Netlify](https://www.netlify.com/) |
-[Heroku](https://www.heroku.com/) |
 [Vite](https://vitejs.dev/) |
 [TypeScript](https://www.typescriptlang.org/) |
-
-
-#### Plan to learn:
-[Redux](https://redux.js.org/) |
-[Cypress](https://www.cypress.io/) |
-[Vue](https://vuejs.org/)
 
 #### Contacts:
 Email: shaliruna4@gmai.com
